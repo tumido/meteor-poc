@@ -1,3 +1,5 @@
+**⚠️ Deprecated. Replaced with https://github.com/AICoE/meteor**
+
 # Meteor command center
 
 ![](assets/poc.gif)
